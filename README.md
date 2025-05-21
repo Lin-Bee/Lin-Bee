@@ -1,18 +1,39 @@
-# 2025-smartfarm-project  
-# 🌿 스마트팜 IoT 통합관리 시스템
+<p align="center">
+  <img src="https://your-image.com/banner.png" alt="portfolio banner" width="100%" />
+</p>
 
-> 실시간 센서 데이터 수집, 시각화, 제어 기능을 제공하는 스마트팜 통합 백엔드 시스템
+# 👋 Hi, I'm Lin-Bee
+
+스마트팜 IoT 통합 시스템부터 웹 앱 대시보드까지  
+**풀스택 실무형 백엔드/프론트엔드 개발자**를 지향합니다.
+
+---
+
+
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
-## 📸 Preview
+## 🚀 주요 프로젝트
 
-> (아래 이미지 경로는 필요 시 업데이트하세요)
-
-![dashboard](./assets/images/dashboard.png)  
-> 사용자 대시보드 예시 화면
+| 프로젝트 | 설명 | 링크 |
+|----------|------|------|
+| **스마트팜 IoT 통합 시스템** | 실시간 센서 데이터 수집 및 관리자 제어 기능 | [🔗 자세히 보기](https://github.com/Lin-Bee/2025-smartfarm-project) |
+| **React Native 앱 대시보드** | 농장 구역별 센서 시각화, 토글뷰 UI | [🔗 미리보기](https://github.com/Lin-Bee/...) |
 
 ---
+
+## 🔗 포트폴리오 링크
+
+[![포트폴리오 바로가기](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://lin-bee.github.io)
+
+---
+
 
 ## 🧩 주요 기능
 
