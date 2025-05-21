@@ -10,19 +10,30 @@
 
 ## 🧰 Tech Stack
 
-**Frontend**  
-React • React Native • Redux • TailwindCSS • TypeScript • SCSS
+### 🖥️ Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 
-**Backend**  
-Java 17 • Spring Boot • MyBatis
+### 🛠 Backend  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?logo=java&logoColor=white)
 
-**Database & Infra**  
-PostgreSQL • MySQL • Redis
+### 🗄 Database & Infra  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-**CI/CD & 기타**  
-Git • GitHub • Swagger • Figma 
+### ⚙️ Tools & Others  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
----
 
 ## 🚀 주요 프로젝트
 
@@ -31,8 +42,18 @@ Git • GitHub • Swagger • Figma
 | **스마트팜 IoT 통합 시스템** | 실시간 센서 데이터 수집 및 관리자 제어 기능 | [🔗 자세히 보기](https://github.com/Lin-Bee/naeunminchocofarm_api_web) |
 | **React Native 앱 대시보드** | 농장 구역별 센서 시각화, 토글뷰 UI | [🔗 미리보기](https://github.com/Lin-Bee/naeunminchocofarm_mobile) |
 | **JAVA API** | 농장 구역별 센서 시각화, 토글뷰 UI | [🔗 미리보기](https://github.com/Lin-Bee/naeunminchocofarm_api) |
+
+## 프로젝트 흐름 한눈에 보기
+<table>
+  <tr>
+    <td align="center"><img src="./assets/PROCESS1.png" width="200"/><br/><strong>기획 & 설계</strong></td>
+    <td align="center"><img src="./assets/PROCESS2.png" width="200"/><br/><strong>개발 & 연동</strong></td>
+    <td align="center"><img src="./assets/PROCESS3.png" width="200"/><br/><strong>테스트 & 개선</strong></td>
+  </tr>
+</table>
+
 <details>
-<summary>🧩 주요 기능 보기</summary>
+<summary>🧩 주요 기능 펼쳐보기</summary>
 
 <br>
 
@@ -70,15 +91,6 @@ Git • GitHub • Swagger • Figma
 
 </details>
 
-
-
-<table>
-  <tr>
-    <td align="center"><img src="./assets/PROCESS1.png" width="200"/><br/><strong>기획 & 설계</strong></td>
-    <td align="center"><img src="./assets/PROCESS2.png" width="200"/><br/><strong>개발 & 연동</strong></td>
-    <td align="center"><img src="./assets/PROCESS3.png" width="200"/><br/><strong>테스트 & 개선</strong></td>
-  </tr>
-</table>
 
 <!-- | **포트폴리오 사이트** | HTML 기반 반응형 자기소개 페이지 | [🔗 바로가기](https://lin-bee.github.io) | -->
 
