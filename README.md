@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-image.com/banner.png" alt="portfolio banner" width="100%" />
-</p>
+![배너](./assets/img-banner.png)
 
 # 👋 Hi, I'm Lin-Bee
 
