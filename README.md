@@ -74,24 +74,24 @@
 
 ---
 
-## 📂 프로젝트 구조
-📦2025-smartfarm-project
-┣ 📁backend
-┃ ┣ 📁src/main/java/com/example/farm
-┃ ┃ ┣ 📁controller
-┃ ┃ ┣ 📁service
-┃ ┃ ┣ 📁mapper
-┃ ┃ ┣ 📁domain
-┃ ┃ ┗ 📁dto
-┃ ┣ 📁resources
-┃ ┃ ┣ 📄application.yml
-┃ ┃ ┗ 📁mapper XMLs
-┣ 📁frontend
-┃ ┣ 📁src
-┃ ┃ ┣ 📁components
-┃ ┃ ┣ 📁pages
-┃ ┃ ┗ ...
-┗ 📄README.md
+### 🛍️ lazysoul  
+![coming soon](https://your-image-url.com/coming-soon.png)
+
+**기간:** 2024년 8월 8일 ~ 2025년 3월 1일  
+**상태:** `WIP` `eComm`
+### 🛍️ lazysoul  
+![coming soon](https://your-image-url.com/coming-soon.png)
+
+**기간:** 2024년 8월 8일 ~ 2025년 3월 1일  
+**상태:** `WIP` `eComm`
+![coming soon](https://your-image-url.com/coming-soon.png)
+
+**기간:** 2024년 8월 8일 ~ 2025년 3월 1일  
+**상태:** `WIP` `eComm`
+![coming soon](https://your-image-url.com/coming-soon.png)
+
+**기간:** 2024년 8월 8일 ~ 2025년 3월 1일  
+**상태:** `WIP` `eComm`
 
 
 ---
