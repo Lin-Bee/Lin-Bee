@@ -75,4 +75,29 @@
 ---
 
 ## 📂 프로젝트 구조
+📦2025-smartfarm-project
+┣ 📁backend
+┃ ┣ 📁src/main/java/com/example/farm
+┃ ┃ ┣ 📁controller
+┃ ┃ ┣ 📁service
+┃ ┃ ┣ 📁mapper
+┃ ┃ ┣ 📁domain
+┃ ┃ ┗ 📁dto
+┃ ┣ 📁resources
+┃ ┃ ┣ 📄application.yml
+┃ ┃ ┗ 📁mapper XMLs
+┣ 📁frontend
+┃ ┣ 📁src
+┃ ┃ ┣ 📁components
+┃ ┃ ┣ 📁pages
+┃ ┃ ┗ ...
+┗ 📄README.md
+
+
+---
+
+## 📬 마무리
+
+📧 lin_bee@naver.com  
+향후에는 WebSocket을 연동한 실시간 상태 알림 기능도 구현해보고 싶습니다.
 
