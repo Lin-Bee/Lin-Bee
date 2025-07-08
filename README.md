@@ -100,8 +100,8 @@
 
 | 프로젝트 | 상태 | 기간 | 설명 |
 |----------|------|------|------|
-| **쇼핑몰** | (진행) | 2025.04 ~ 2025.05 | [전자상거래 기반 브랜드 사이트] (프론트/백엔드) [🔗 미리보기](https://github.com/Lin-Bee/greenclass/tree/main/workspace_react/book_shop) |
-| **쇼핑몰** | (진행) | 2025.04 ~ 2025.05 | [전자상거래 기반 브랜드 사이트] (프론트/백엔드) [🔗 미리보기](https://github.com/Lin-Bee/greenclass/tree/main/workspace_react/book_shop) |
+| **자바수업공부** | (완료) | 2020 | [자바공부] (프론트/백엔드) [🔗 미리보기](https://github.com/Lin-Bee/java-class) |
+| **파이썬열린시민대학공부** | (완료) | 2020.06 ~ 2020.07 | [울산열린시민대학 [Level.1 강좌 듣기]] (프론트/백엔드) [🔗 미리보기]([https://blog.naver.com/lin_bee/221994167941]) |
 
 ---
 
